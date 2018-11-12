@@ -1,8 +1,9 @@
-# tpms_ble_tyredog
+# tpms_ble_tiremoni_android
 
-#TYREDOG
-#JOSN Electronic Co., Ltd.
-#3F, No.12, Wugong 6th Rd., Xinzhuang Dist., New Taipei City, 242, Taiwan
-#Tel: 886-2-2299-6900 
-#Fax: 886-2-2299-6955 
-#E-mail: sales@josn.com.tw
+TireMoni-App Android Version
+
+Turns Iphone into a TireMoni TPMS. Requires BLE-Adapter to receive sensor data and send sensor data to Smartphone-app.
+
+V1.0: 4 wheels, 4 Sensors.
+
+V2.0: 2 wheels, 4 wheels, 6 wheels. Selectable vehicle type
